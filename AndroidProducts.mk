@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_poplar_dsds.mk
+    $(LOCAL_DIR)/kscope_poplar_dsds.mk
