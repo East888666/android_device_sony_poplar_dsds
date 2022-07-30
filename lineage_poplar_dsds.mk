@@ -16,7 +16,7 @@ TARGET_SCREEN_WIDTH := 1080
 TARGET_BOOTANIMATION_HALF_RES := true
 
 ### LINEAGE
-$(call inherit-product, vendor/kscope/config/common_full_phone.mk)
+$(call inherit-product, vendor/kscope/config/mobile.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := kscope_poplar_dsds
